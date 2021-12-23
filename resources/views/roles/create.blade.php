@@ -76,7 +76,7 @@
                     </div>
                     <!-- /col -->
                     <div class="col-xs-12 col-sm-12 col-md-12 text-center">
-                        <button type="submit" class="btn btn-main-primary">تاكيد</button>
+                        <button type="submit" class="btn btn-main-primary">تأكيد</button>
                     </div>
 
                 </div>
